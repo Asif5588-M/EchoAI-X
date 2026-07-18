@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Conda
+.env
+.venv
+
+# Logs
+*.log
+
+# Models
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+
+# Processed Data
+data/processed/
+data/interim/
+
+# Large Raw Dataset (GitHub par upload nahi karna)
+data/raw/
+
+# OS Files
+.DS_Store
+Thumbs.db
