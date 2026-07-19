@@ -24,12 +24,8 @@ __pycache__/
 # Outputs
 outputs/
 
-# Processed Data
-data/processed/
-data/interim/
-
-# Large Raw Dataset (GitHub par upload nahi karna)
-data/raw/
+# Data (all — raw, processed, temp upload folders)
+data/
 
 # OS Files
 .DS_Store
